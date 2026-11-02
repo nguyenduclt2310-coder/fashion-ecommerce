@@ -1,0 +1,9 @@
+Sau khi lệnh git push chạy xong, cậu F5 lại trang GitHub sẽ thấy toàn bộ bộ khung thư mục client, server và file README.md đã xuất hiện đầy đủ trên mạng.
+
+Từ các lần sau, mỗi khi code xong một tính năng mới, cậu chỉ cần dùng bộ 3 câu lệnh quen thuộc:
+
+git add .
+
+git commit -m "mô tả tính năng vừa làm"
+
+git push
